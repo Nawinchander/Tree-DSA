@@ -65,6 +65,27 @@ preorder(root);
 // 3
 
 
+////// Postorder Traversal (Left → Right → Root)
+
+function postorder(root) {
+  if (root === null) return;
+
+  postorder(root.left);
+  postorder(root.right);
+  console.log(root.value);
+}
+
+postorder(root);
+
+
+//// op
+
+// 4
+// 5
+// 2
+// 3
+// 1
+
 
 
 
