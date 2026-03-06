@@ -30,12 +30,12 @@ function LCA(root, p, q){
 console.log(LCA(root,5,1).val)
 
 
-//// op
 
-/// 3
+/// op 
 
+// 3
 
 /// Time Complexity
 
-///// 0(n)
+//// 0(n)
 
