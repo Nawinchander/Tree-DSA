@@ -1,0 +1,16 @@
+
+Diameter of Binary Tree
+
+Diameter = longest path between any two nodes in the tree
+
+
+        1
+       / \
+      2   3
+     / \
+    4   5
+
+
+Diameter path
+
+4 → 2 → 1 → 3
