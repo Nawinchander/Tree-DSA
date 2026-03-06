@@ -1,0 +1,9 @@
+Level Order Traversal (Breadth First Search)
+
+This prints the tree level by level.
+
+[
+ [3],
+ [5,1],
+ [6,2,0,8]
+]
