@@ -1,0 +1,12 @@
+        
+Lowest Common Ancestor (LCA) in Binary Tree
+
+Find the lowest node that has both nodes as descendants.
+        
+        3
+       / \
+      5   1
+     / \ / \
+    6  2 0  8
+      / \
+     7   4
