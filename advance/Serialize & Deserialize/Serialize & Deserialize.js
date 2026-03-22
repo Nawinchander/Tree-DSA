@@ -47,7 +47,9 @@ function deserialize(data) {
 }
 
 
-
+// Complexity:
+// Time: O(n)
+// Space: O(n)
 
 
 
